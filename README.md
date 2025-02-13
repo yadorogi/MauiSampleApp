@@ -1,4 +1,4 @@
-# MacOSでの、.NET MAUIBlazor Hybrid アプリの構築
+# MacOSでの、.NET MAUI Blazor Hybrid アプリの構築
 
 macOS Sonoma 15.3.1
 Mac mini (M2)
