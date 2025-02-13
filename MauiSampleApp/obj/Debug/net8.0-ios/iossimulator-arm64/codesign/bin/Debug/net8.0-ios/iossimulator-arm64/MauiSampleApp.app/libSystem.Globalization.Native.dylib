@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/kawa/MauiSampleApp/MauiSampleApp/bin/Debug/net8.0-ios/iossimulator-arm64/MauiSampleApp.app/libSystem.Globalization.Native.dylib

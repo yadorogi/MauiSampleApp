@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/kawa/MauiSampleApp/MauiSampleApp/obj/Debug/net8.0-ios/iossimulator-arm64/scopedcss/bundle/MauiSampleApp.styles.css",
+      "PackagePath": "staticwebassets/MauiSampleApp.styles.css"
+    },
+    {
+      "Id": "/Users/kawa/MauiSampleApp/MauiSampleApp/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/kawa/MauiSampleApp/MauiSampleApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/kawa/MauiSampleApp/MauiSampleApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/kawa/MauiSampleApp/MauiSampleApp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/kawa/MauiSampleApp/MauiSampleApp/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0-ios/iossimulator-arm64/staticwebassets/msbuild.MauiSampleApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0-ios/iossimulator-arm64/staticwebassets/msbuild.build.MauiSampleApp.props",
+      "PackagePath": "build\\MauiSampleApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0-ios/iossimulator-arm64/staticwebassets/msbuild.buildMultiTargeting.MauiSampleApp.props",
+      "PackagePath": "buildMultiTargeting\\MauiSampleApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0-ios/iossimulator-arm64/staticwebassets/msbuild.buildTransitive.MauiSampleApp.props",
+      "PackagePath": "buildTransitive\\MauiSampleApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
